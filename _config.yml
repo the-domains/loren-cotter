@@ -1,7 +1,7 @@
 name: Loren Cotter
 favicon: null
 layout_spectrum: 0.21285
-typography_spectrum: 0.15943
+typography_spectrum: 0.39149
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#675143'
     - '#5c2f1c'
   brandStrength: 0.625
-  lightness: 0.8844308445695788
-  saturation: 0.3595886775292456
-  rhythmicContrast: 0.0095067392103374
+  lightness: 0.625
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
