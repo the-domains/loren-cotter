@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-07T17:06:37.606Z'
-dateModified: '2016-02-07T17:06:36.257Z'
+datePublished: '2016-02-07T20:17:20.015Z'
+dateModified: '2016-02-07T20:17:11.325Z'
 title: EDITING + WRITING
 author: []
 sourcePath: _posts/2016-02-06-editing-writing.md
@@ -31,9 +31,25 @@ An ode to Seoul's disorientating subway system and its [moving ][0][metal stairc
 
 [How to break into an abandoned psychiatric hospital][1]
 
+[Investigating the last slum in Seoul ][2]
+
 **Stuff I've written **
 
-A guide to Seoul for Paste Magazine
+[48 hours in Seoul][3] (Published on Paste Magazine's website, US)
+
+[Korea: The Impossible Country: An interview with Daniel Tudor, author of the award-winning book][4] (Chincha's website, South Korea)
+
+[Where to find Seoul's most luxurious shops][5] (The Reserve Magazine, Hong Kong)
+
+[The best restaurants with a view for SEOUL Magazine][6] (SEOUL Magazine, South Korea)
+
+[Subway maps that are anything but][7] (Hejorama's website, France)
 
 [0]: http://chincha.co.uk/2013/01/seouls-moving-metal-staircases/
 [1]: http://chincha.co.uk/2013/06/breaking-into-a-haunted-mental-hospital-in-korea/
+[2]: http://chincha.co.uk/2013/07/seouls-guryeong-slum/
+[3]: www.pastemagazine.com/articles/2015/11/greetings-from-seoul.html
+[4]: http://chincha.co.uk/2012/11/korea-the-impossible-country/
+[5]: http://thereserve-asia.com/shopping-weekender-seoul/
+[6]: http://magazine.seoulselection.com/2013/06/07/a-feast-for-your-eyes/
+[7]: http://www.hejorama.com/articles/the-monday-map-zero-per-zero-10513/
