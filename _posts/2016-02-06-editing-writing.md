@@ -1,31 +1,31 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-06T16:12:24.919Z'
-dateModified: '2016-02-06T16:12:14.512Z'
+datePublished: '2016-02-07T17:06:37.606Z'
+dateModified: '2016-02-07T17:06:36.257Z'
 title: EDITING + WRITING
 author: []
+sourcePath: _posts/2016-02-06-editing-writing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-06-editing-writing.md
-published: true
-url: editing-writing/index.html
-_type: Article
+_type: Blurb
 
 ---
 # EDITING + WRITING
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d56e321b-623a-41b4-9e8c-27a1560cd9dc.jpg)
 
 **Stuff I've edited**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab27ebe3-b3f3-44b9-a60d-1d3e2f1ec645.jpg)
 
 An ode to Seoul's disorientating subway system and its [moving ][0][metal staircases][0]
 
