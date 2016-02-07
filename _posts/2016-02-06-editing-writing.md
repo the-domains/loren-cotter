@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-07T20:22:54.729Z'
-dateModified: '2016-02-07T20:22:51.883Z'
+datePublished: '2016-02-07T21:05:00.362Z'
+dateModified: '2016-02-07T21:02:14.290Z'
 title: EDITING + WRITING
 author: []
 sourcePath: _posts/2016-02-06-editing-writing.md
