@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T19:06:47.692Z'
-dateModified: '2016-02-09T19:06:45.319Z'
+datePublished: '2016-02-09T19:09:55.186Z'
+dateModified: '2016-02-09T19:09:51.955Z'
 title: EDITING + WRITING
 author: []
 sourcePath: _posts/2016-02-06-editing-writing.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: editing-writing/index.html
-_type: Article
+_type: WebPage
 
 ---
 # EDITING + WRITING
