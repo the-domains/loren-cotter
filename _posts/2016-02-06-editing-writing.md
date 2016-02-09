@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-07T21:05:00.362Z'
-dateModified: '2016-02-07T21:02:14.290Z'
+datePublished: '2016-02-09T13:41:57.215Z'
+dateModified: '2016-02-09T13:41:45.659Z'
 title: EDITING + WRITING
 author: []
 sourcePath: _posts/2016-02-06-editing-writing.md
@@ -19,13 +18,14 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: editing-writing/index.html
+_type: Article
 
 ---
 # EDITING + WRITING
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab27ebe3-b3f3-44b9-a60d-1d3e2f1ec645.jpg)
 
-**Stuff I've edited**
+**Things I've edited**
 
 An ode to Seoul's disorientating subway system and its [moving ][0][metal staircases][0]
 
@@ -41,7 +41,7 @@ An ode to Seoul's disorientating subway system and its [moving ][0][metal stairc
 
 [Where to find Seoul's most luxurious shops][5] (The Reserve Magazine, Hong Kong)
 
-[The best restaurants with a view for SEOUL Magazine][6] (SEOUL Magazine, South Korea)
+[Seoul's best restaurants with a view][6] (SEOUL Magazine, South Korea)
 
 [Subway maps that are anything but][7] (Hejorama's website, France)
 
