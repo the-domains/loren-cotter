@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T19:09:55.186Z'
-dateModified: '2016-02-09T19:09:51.955Z'
+datePublished: '2016-02-09T19:13:15.125Z'
+dateModified: '2016-02-09T19:13:11.100Z'
 title: EDITING + WRITING
 author: []
 sourcePath: _posts/2016-02-06-editing-writing.md
@@ -22,9 +22,6 @@ url: editing-writing/index.html
 _type: WebPage
 
 ---
-# EDITING + WRITING
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab27ebe3-b3f3-44b9-a60d-1d3e2f1ec645.jpg)
-
 **Things I've edited**
 
 An ode to Seoul's disorientating subway system and its [moving ][0][metal staircases][0]
