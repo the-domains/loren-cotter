@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T13:41:57.215Z'
-dateModified: '2016-02-09T13:41:45.659Z'
+datePublished: '2016-02-09T18:34:43.683Z'
+dateModified: '2016-02-09T14:17:06.783Z'
 title: EDITING + WRITING
 author: []
 sourcePath: _posts/2016-02-06-editing-writing.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: editing-writing/index.html
-_type: Article
+_type: WebPage
 
 ---
 # EDITING + WRITING
@@ -35,7 +35,7 @@ An ode to Seoul's disorientating subway system and its [moving ][0][metal stairc
 
 **Stuff I've written **
 
-[48 hours in Seoul][3] (Published on Paste Magazine's website, US)
+[48 hours in Seoul][3] (Paste Magazine's website, US)
 
 [Korea: The Impossible Country: An interview with Daniel Tudor, author of the award-winning book][4] (Chincha's website, South Korea)
 
