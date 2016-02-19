@@ -1,25 +1,29 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T14:56:43.209Z'
-dateModified: '2016-02-13T14:56:28.399Z'
-title: Photography
+datePublished: '2016-02-19T17:04:03.728Z'
+dateModified: '2016-02-19T17:04:03.015Z'
+title: Georgia
+author: []
+sourcePath: _posts/2016-02-13-photography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-13-photography.md
-published: true
 url: photography/index.html
-_type: WebPage
+_type: Article
 
 ---
-Photography
+# Georgia
+
+The Caucus Mountains in northwest Georgia, near the village of Svaneti in Mestia. There are several hikes, to waterfalls, through bear-filled forests, and along the tip of a glacier. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed7ca3c0-07aa-4e69-8639-49acd0753614.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df616f48-eccd-4425-a35f-6644f3ebf044.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91a3eeb9-2218-49d7-b3cc-8738b149ca72.JPG)
