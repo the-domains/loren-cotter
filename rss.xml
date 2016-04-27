@@ -4,7 +4,7 @@
         <description><![CDATA[Loren Cotter // Travel + Work ]]></description>
         <link>https://thegrid.ai/loren-cotter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 17:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 17:21:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/loren-cotter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/loren-cotter/hello/index.html</link>
             <guid isPermaLink="false">e0ec7cef-cafb-4ac3-86c8-95f8274d0991</guid>
             <pubDate>Tue, 15 Mar 2016 18:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loren's Portfolio]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02b3f6c8-50bf-4f1a-82e0-9667468bbcd2.jpg">]]></description>
+            <link>https://thegrid.ai/loren-cotter/editing-writing/index.html</link>
+            <guid isPermaLink="false">b6cd8190-acff-4464-8c69-a3e922f57de4</guid>
+            <pubDate>Wed, 27 Apr 2016 17:21:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
