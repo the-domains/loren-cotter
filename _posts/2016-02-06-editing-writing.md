@@ -3,12 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-09T19:13:15.125Z'
-dateModified: '2016-02-09T19:13:11.100Z'
-title: EDITING + WRITING
+description: Editing work
+datePublished: '2016-04-27T17:17:03.665Z'
+dateModified: '2016-04-27T16:44:17.393Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-06-editing-writing.md
 published: true
@@ -18,11 +17,12 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: editing-writing/index.html
 _type: WebPage
 
 ---
-**Things I've edited**
+**Editing work**
 
 An ode to Seoul's disorientating subway system and its [moving ][0][metal staircases][0]
 
@@ -30,7 +30,7 @@ An ode to Seoul's disorientating subway system and its [moving ][0][metal stairc
 
 [Investigating the last slum in Seoul ][2]
 
-**Stuff I've written **
+**Writing work**
 
 [48 hours in Seoul][3] (Paste Magazine's website, US)
 
