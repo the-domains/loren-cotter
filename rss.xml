@@ -4,7 +4,7 @@
         <description><![CDATA[Loren Cotter // Travel + Work ]]></description>
         <link>https://thegrid.ai/loren-cotter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 17:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 17:16:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/loren-cotter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About ]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/loren-cotter/hello/index.html</link>
             <guid isPermaLink="false">e0ec7cef-cafb-4ac3-86c8-95f8274d0991</guid>
             <pubDate>Tue, 15 Mar 2016 18:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Island hopping in Greece]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35dcb28a-4e2b-4a8e-8938-0fc2a0df4031.jpg">]]></description>
-            <link>https://thegrid.ai/loren-cotter/island-hopping-in-greece/index.html</link>
-            <guid isPermaLink="false">3bc6be4e-561e-42de-a67c-b491cfca14b3</guid>
-            <pubDate>Sat, 06 Feb 2016 13:51:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
