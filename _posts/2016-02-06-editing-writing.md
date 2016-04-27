@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Editing Work
-datePublished: '2016-04-27T17:21:41.771Z'
-dateModified: '2016-04-27T17:20:53.863Z'
+datePublished: '2016-04-27T17:22:34.749Z'
+dateModified: '2016-04-27T17:21:52.016Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-06-editing-writing.md
