@@ -1,6 +1,6 @@
 name: Loren Cotter
 favicon: null
-layout_spectrum: 0.1828
+layout_spectrum: 0.82554
 typography_spectrum: 0.39149
 title: 'Loren Cotter // Travel + Work '
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#5385e6'
-    - '#78b1fe'
-    - '#161618'
-    - '#3a5d56'
-    - '#c2b7a5'
+    - '#8b8b89'
+    - '#4b4744'
+    - '#bec2c5'
+    - '#feffff'
+    - '#e43697'
   brandStrength: 0.3125
   lightness: 0.5
   saturation: 0.375
